@@ -48,6 +48,10 @@ Upload `SKILL.md` to your project's knowledge base.
 
 Paste the contents of `SKILL.md` into your editor's rules or system prompt file.
 
+### Replit, v0, and other AI prototyping tools
+
+Paste the contents of `SKILL.md` into the agent's context or system prompt and tell it to follow the skill.
+
 ### Any AI with a system prompt
 
 Copy the contents of `SKILL.md` into your system prompt.
