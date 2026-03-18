@@ -38,25 +38,25 @@ Semantic HTML · ARIA · Keyboard navigation · Focus management · Component st
 
 ### Claude Code
 
-Add `skill.md` as a skill in your Claude Code project:
+Add `SKILL.md` as a skill in your Claude Code project:
 
 ```
-.claude/skills/accessibility-linter/skill.md
+.claude/skills/accessibility-linter/SKILL.md
 ```
 
 Or add it to your user-level skills so it's available across all projects.
 
 ### Claude Projects
 
-Upload `skill.md` to your project's knowledge base. The skill will activate automatically when you're designing or building components.
+Upload `SKILL.md` to your project's knowledge base. The skill will activate automatically when you're designing or building components.
 
 ### Cursor / Windsurf / other AI editors
 
-Paste the contents of `skill.md` into your system prompt or rules file (`.cursorrules`, `.windsurfrules`, etc.).
+Paste the contents of `SKILL.md` into your system prompt or rules file (`.cursorrules`, `.windsurfrules`, etc.).
 
 ### Any AI with a system prompt
 
-Copy the contents of `skill.md` and include it in your system prompt directly.
+Copy the contents of `SKILL.md` and include it in your system prompt directly.
 
 ---
 
