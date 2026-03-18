@@ -82,6 +82,18 @@ You don't need to invoke it explicitly. If a component is being actively designe
 
 ---
 
+## Folder structure
+
+```
+accessibility-linter/
+├── SKILL.md                 The skill itself. Add this to your AI tool.
+├── EXAMPLE-SCENARIOS.md     12 real-world examples showing the skill in action.
+├── README.md                This file.
+└── LICENSE                  MIT
+```
+
+---
+
 ## Author
 
 [Som](https://www.linkedin.com/in/designedbysom/)
