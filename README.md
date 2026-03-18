@@ -38,15 +38,23 @@ Semantic HTML · ARIA · Keyboard navigation · Focus management · Component st
 
 ### Claude Code
 
-Add this folder as a skill.
+1. Clone this repo into your Claude Code skills directory:
+   ```
+   git clone https://github.com/designedbysom/accessibility-linter ~/.claude/skills/accessibility-linter
+   ```
+2. Restart Claude Code. It picks up any folder in `~/.claude/skills/` automatically.
+
+### Cursor
+
+1. Open your project in Cursor
+2. Go to **Cursor Settings > Rules** (or open `.cursor/rules/` in your project)
+3. Paste the contents of `SKILL.md` into a new rule
 
 ### Claude Projects
 
-Upload `SKILL.md` to your project's knowledge base.
-
-### Cursor / Windsurf / other AI editors
-
-Paste the contents of `SKILL.md` into your editor's rules or system prompt file.
+1. Open your project in Claude
+2. Go to **Project Knowledge**
+3. Upload `SKILL.md`
 
 ### Replit, v0, and other AI prototyping tools
 
