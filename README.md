@@ -102,6 +102,10 @@ accessibility-linter/
 
 ---
 
+If this helped you catch something before it shipped, consider giving it a star.
+
+---
+
 ## Author
 
 [Som](https://www.linkedin.com/in/designedbysom/)
