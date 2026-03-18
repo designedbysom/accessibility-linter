@@ -46,7 +46,7 @@ Upload `SKILL.md` to your project's knowledge base.
 
 ### Cursor / Windsurf / other AI editors
 
-Paste the contents of `SKILL.md` into your rules file (`.cursorrules`, `.windsurfrules`, etc.).
+Paste the contents of `SKILL.md` into your editor's rules or system prompt file.
 
 ### Any AI with a system prompt
 
@@ -56,7 +56,7 @@ Copy the contents of `SKILL.md` into your system prompt.
 
 ## Usage
 
-The skill activates automatically when:
+The skill is relevant when:
 
 - You describe a component you're designing
 - You share a Figma link or screenshot
@@ -64,7 +64,7 @@ The skill activates automatically when:
 - You ask about keyboard behavior, focus, or component states
 - You say things like "is this accessible", "how should I handle focus", "review this interaction"
 
-You don't need to invoke it explicitly. If a component is being actively designed or built, the skill is relevant.
+You don't need to invoke it explicitly. If a component is being actively designed or built, it applies.
 
 ---
 

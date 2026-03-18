@@ -2,7 +2,6 @@
 name: accessibility-linter
 description: Reviews accessibility mid-design, not as a compliance audit, but as a craft challenge. Use when designing, describing, or building a UI component. Trigger on "I'm designing a component", "does this work", "review this interaction", "how should I handle focus", "is this accessible", or whenever HTML/CSS/React code is shared. Also trigger when component states, interaction models, or keyboard behavior are being described. Don't wait to be asked. If a component is being actively designed, this skill is relevant.
 metadata:
-  trigger: Designing UI components, writing frontend code, reviewing interaction models, handling focus, building accessible patterns
   author: Som
 ---
 
