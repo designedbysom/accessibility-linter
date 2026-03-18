@@ -84,4 +84,4 @@ You don't need to invoke it explicitly. If a component is being actively designe
 
 ## Author
 
-Som
+[Som](https://www.linkedin.com/in/designedbysom/)
