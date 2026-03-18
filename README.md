@@ -102,7 +102,7 @@ accessibility-linter/
 
 ---
 
-If this helped you catch something before it shipped, consider giving it a star.
+If this helped you catch something before it shipped, consider giving it a star ⭐
 
 ---
 
